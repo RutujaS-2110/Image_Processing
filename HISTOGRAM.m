@@ -1,10 +1,9 @@
 % Yeshwantrao Chavan College of Engineering
-% Name of Student: Pratiksha Telrandhe,Rutuja Saharkar
-% Roll No.: 117,118
-% Class/Section: 3rd/B
+% Name of Student: Rutuja Saharkar
+% Roll No.: 118
+% Class/Section: 3rd year/B
 % Course Name: Signal and Systems
 % Course Code: ET-2303
-% Course Teacher: Prof.M.S.Patil
 % Topic: Histogram Matching
 
 %% HISTOGRAM MATCHING EXAMPLE.NO-01
